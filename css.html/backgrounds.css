@@ -1,0 +1,39 @@
+div{
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border: 5px black dashed;
+}
+ 
+#div1{
+    background-color: yellow;
+}
+
+#div2{
+    background-color: #c1a4cd ;
+    background-clip: padding-box;
+}
+
+#div3{
+    background-image: url("https://icons.veryicon.com/png/o/avatar/character-linear-icon/batman-9.png");
+    background-repeat: no-repeat;
+    background-position: inside;
+}
+
+
+#div4{
+    background-image: url("https://icons.veryicon.com/png/o/avatar/character-linear-icon/batman-9.png");
+    background-position: inside;
+}
+
+#div5{
+    background-image:url("https://icons.veryicon.com/png/o/avatar/character-linear-icon/batman-9.png");
+    background-position: inside;
+}
+
+body{
+    background-image: url("http://www.anujgahar.com/wp-content/uploads/2014/07/css.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+}
